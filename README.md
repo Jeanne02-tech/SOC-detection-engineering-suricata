@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SOC-detection-engineering-Suricata
 
 ## 1. Présentation du projet
@@ -299,3 +300,6 @@ Ce mini laboratoire constitue une expérience pratique dans le domaine de la cyb
 **Technologies utilisées :** Windows 10 | Ubuntu Server | Suricata | EveBox
 
 **Domaine :** Cybersécurité – Network Security – Intrusion Detection – SOC
+=======
+
+>>>>>>> 1398d88217965a1ee7a7873d37a878d3a44b1bc7
